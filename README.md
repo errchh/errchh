@@ -1,2 +1,1 @@
-# Hello there! This is @errchh. :paw_prints: 
-I am learning SQL as a data analyst. Looking forward to interesting projects ahead. 
+# Hello there! This is @errchh. Based in Hong Kong and UK. Using SQL, Tableau and R as a data analyst. 
