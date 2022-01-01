@@ -1,1 +1,1 @@
-# Hi there! This is Eric Chan. I use SQL, Tableau and R as a data analyst. Based in Hong Kong and UK. 
+# Hello, my name is Eric Chan. I use SQL, R and Tableau as a data analyst. Based in Hong Kong and UK. 
