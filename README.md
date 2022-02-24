@@ -1,1 +1,1 @@
-# Hello, my name is Eric Chan. I use SQL, R and Tableau as a data analyst. 
+# Hello, my name is Eric Chan, a Google certified data analyst. I use R, SQL, and Tableau for my analysis. 
