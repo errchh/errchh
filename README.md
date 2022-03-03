@@ -1,3 +1,3 @@
-# Eric Chan, a Google certified data analyst. :owl:
+# Eric Chan, a data analyst. Google certified. :owl:
 
 # Portfolio on https://errchh.github.io 
